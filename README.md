@@ -1,1 +1,1 @@
-# game.aventura
+# aventura.game
